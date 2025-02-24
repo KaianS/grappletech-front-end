@@ -32,8 +32,8 @@ Este projeto é um monitor de dados de treino desenvolvido com React e Next.js, 
 1.  **Clone o repositório:**
 
     ```bash
-    git clone [https://github.com/KaianS/grappletech-front-end.git](https://github.com/KaianS/grappletech-front-end.git)
-    cd [grappletech-front-end]
+    git clone https://github.com/KaianS/grappletech-front-end.git
+    cd grappletech-front-end
     ```
 
 2.  **Instale as dependências:**
