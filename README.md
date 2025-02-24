@@ -52,7 +52,7 @@ Este projeto é um monitor de dados de treino desenvolvido com React e Next.js, 
     yarn dev
     ```
 
-4.  **Abra o navegador:**
+4.  **Abra o navegador (Edge para melhor compatibilidade):**
 
     Acesse `http://localhost:3000` no seu navegador.
 
